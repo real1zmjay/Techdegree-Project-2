@@ -146,3 +146,73 @@ a:active {
 		float: left;
 		width: 47.5%
 }
+
+ul.products li {
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+ul.products {
+	margin-left: 1%;
+	margin-right: auto;
+}
+
+ul.footer-nav {
+	display: inline-block;
+	list-style-type: none;
+	float: right;
+}
+
+li {
+ display: inline;
+ padding-right: 20px;
+}
+
+.back-to-top {
+	display: none;
+}
+
+@media (min-width: 1024px) {
+}
+.name {
+	float: left;
+	margin: 0 1%;
+	padding: 0 2px;
+}
+
+.main-nav {
+	display: inline-block;
+	float: right;
+	min-width: 350px;
+}
+
+.profile {
+	margin-top: 100px;
+}
+
+.student-picture {
+	float: right;
+  padding: 2em;
+}
+
+p.introduction {
+ float: left;
+ font-size:17px;
+ text-align:justify;
+}
+
+ul.products li {
+ width: 33%;
+ display: inline-block;
+ vertical-align: top;
+}
+
+ul.products {
+	margin-left: 1%;
+	margin-right: auto;
+}
+
+p {
+text-align: justify;
+}
