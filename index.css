@@ -1,0 +1,100 @@
+{
+ box-sizing: border-box;
+}
+body {
+ font-family: 'Alice', serif;
+ line-height: 1.5;
+ color: #000;
+ background-color: #ceede1;
+}
+.name a {
+ font-size: 1.25em;
+ margin: 0;
+ font-size: 25px;
+ text-align: center;
+}
+.main-nav li {
+ background: #fff;
+ margin: 5px;
+ list-style: none;
+ max-width: 90%;
+}
+.name a,.main-nav {
+ display: block;
+ text-align: center;
+ padding: 10px 1px;
+ text-decoration: none;
+}
+.main-nav a {
+ color: #000;
+ text-transform: uppercase;
+}
+.main-nav a:hover {
+ color: #000;
+}
+
+h2,h3 {
+ text-align: center;
+}
+p.introduction {
+ text-align: justify;
+ padding: 2%;
+   color:grey;
+
+}
+.portfolio {
+ background: #fff;
+ display: inline-block;
+}
+
+.portfolio-title {
+ text-align: center;
+}
+
+.p {
+  text-align: justify;
+}
+
+p.contact {
+ text-align: justify;
+   padding:10%;
+}
+
+p.phone {
+ text-align: center;
+}
+p.e-mail {
+ text-align: center;
+}
+
+.student-picture {
+ display: block;
+ max-width: 60%;
+ margin-left: auto;
+ margin-right: auto
+}
+img {
+ max-width: 100%;
+ display: block;
+ margin-left: -20px
+}
+li {
+ list-style: none;
+}
+
+.line-separator {
+ height: 1px;
+ border-bottom: 1px solid #c4c2c2;
+}
+.studentname-footer {
+ display: inline-block;
+ float: left;
+}
+.back-to-top {
+ display: inline-block;
+ float: right;
+ list-style: none;
+}
+.footer-nav {
+ display: none;
+}
