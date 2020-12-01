@@ -4,7 +4,7 @@
 body {
  font-family: 'Alice', serif;
  line-height: 1.5;
- color: #000;
+ color: black;
  background-color: #ccccb3;
 }
 .name a {
@@ -26,11 +26,11 @@ body {
  text-decoration: none;
 }
 .main-nav a {
- color: #000 ;
+ color: black ;
  text-transform: uppercase;
 }
 .main-nav a:hover {
- color: #000;
+ color: blackS;
 }
 
 h2,h3 {
