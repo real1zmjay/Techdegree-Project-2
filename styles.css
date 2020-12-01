@@ -112,7 +112,7 @@ a:link {
 }
 
 a:visited {
-	color: red;
+	color: white;
 }
 
 a:active {
@@ -140,7 +140,7 @@ a:active {
 		max-width: 35%;
 		margin-left: 10%;
 		margin-right: 6%;
-    
+
 }
 	p.introduction {
 		float: left;
