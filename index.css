@@ -4,8 +4,8 @@
 body {
  font-family: 'Alice', serif;
  line-height: 1.5;
- color: #000;
- background-color: #ceede1;
+ color: black;
+ background-color: white;
 }
 .name a {
  font-size: 1.25em;
@@ -26,7 +26,7 @@ body {
  text-decoration: none;
 }
 .main-nav a {
- color: #000;
+ color: #000 ;
  text-transform: uppercase;
 }
 .main-nav a:hover {
