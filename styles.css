@@ -85,16 +85,64 @@ li {
 .line-separator {
  height: 1px;
  border-bottom: 1px solid #c4c2c2;
+
 }
 .studentname-footer {
  display: inline-block;
  float: left;
+
 }
 .back-to-top {
  display: inline-block;
  float: right;
  list-style: none;
+
 }
 .footer-nav {
  display: none;
+}
+a:link {
+
+	text-decoration: none;
+	font-size: 18px;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: red;
+}
+
+a:active {
+	color: blue;
+}
+
+@media (min-width: 768px) {
+	body {
+		padding-top: 5px;
+}
+	.main-nav {
+		text-align: center;
+
+}
+	.main-nav li {
+		display: inline-block;
+		margin-right: 1%;
+		margin-left: 2%;
+		background: none;
+
+}
+	.student-picture {
+		float: right;
+		display: inline-block;
+		max-width: 35%;
+		margin-left: 10%;
+		margin-right: 6%;
+    
+}
+	p.introduction {
+		float: left;
+		width: 47.5%
 }
